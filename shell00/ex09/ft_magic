@@ -1,0 +1,5 @@
+# Detect string '42'
+0 string 42 42 file
+
+# Detect the byte value 42
+0 byte 42 42 file
